@@ -1,4 +1,4 @@
-package me.cxis.springboot.metrics;
+package fun.pullock.springboot.metrics;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

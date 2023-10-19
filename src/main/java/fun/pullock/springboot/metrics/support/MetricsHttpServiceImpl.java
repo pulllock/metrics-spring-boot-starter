@@ -1,6 +1,6 @@
-package me.cxis.springboot.metrics.support;
+package fun.pullock.springboot.metrics.support;
 
-import me.cxis.springboot.metrics.MetricsProperties;
+import fun.pullock.springboot.metrics.MetricsProperties;
 
 /**
  * 使用http收集应用指标

@@ -1,4 +1,4 @@
-package me.cxis.springboot.metrics.support;
+package fun.pullock.springboot.metrics.support;
 
 /**
  * 应用指标收集服务

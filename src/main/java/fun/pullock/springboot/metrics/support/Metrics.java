@@ -1,4 +1,4 @@
-package me.cxis.springboot.metrics.support;
+package fun.pullock.springboot.metrics.support;
 
 import java.io.Serializable;
 import java.util.ArrayList;

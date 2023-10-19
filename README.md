@@ -9,7 +9,7 @@ Spring文档建议官方的starter命名为：`spring-boot-starter-{name}`，非
 
 ```
 <dependency>
-    <groupId>me.cxis</groupId>
+    <groupId>fun.pullock</groupId>
     <artifactId>metrics-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>

@@ -1,9 +1,9 @@
-package me.cxis.springboot.metrics;
+package fun.pullock.springboot.metrics;
 
-import me.cxis.springboot.metrics.support.MetricsHttpServiceImpl;
-import me.cxis.springboot.metrics.support.MetricsInfluxdbServiceImpl;
-import me.cxis.springboot.metrics.support.MetricsMysqlServiceImpl;
-import me.cxis.springboot.metrics.support.MetricsService;
+import fun.pullock.springboot.metrics.support.MetricsHttpServiceImpl;
+import fun.pullock.springboot.metrics.support.MetricsInfluxdbServiceImpl;
+import fun.pullock.springboot.metrics.support.MetricsMysqlServiceImpl;
+import fun.pullock.springboot.metrics.support.MetricsService;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
